@@ -1,0 +1,7 @@
+# These are the main libraries used for the project.
+streamlit
+
+# These are the main libraries used for LLM inference.
+openai
+google-genai
+anthropic
