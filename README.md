@@ -1,5 +1,5 @@
 
-# Clinic Patient Intake & Pre-Screening Chatbot
+# Modular Chat Agent Kit
 
 This project is a robust, modular, and extensible conversational AI assistant designed for configurable domain specific workflows. Built with Python and Streamlit, it leverages Large Language Models (LLMs) from multiple providers (Google, OpenAI, Anthropic) and supports advanced configuration, secure API key management, and customizable system prompts.
 
@@ -94,7 +94,6 @@ ANTHROPIC_API_KEY = "..."
 3. Enter patient information or questions in the chat input box.
 4. The assistant will respond and may end the conversation with:
    > I’ll end our conversation here. Take care.
-   At this point, the chat input will be disabled.
 
 ---
 
